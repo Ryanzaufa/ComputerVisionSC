@@ -1,5 +1,5 @@
 # ComputerVisionSC
-Repository for Computer Vision assignments from Startup Campus. In this repository i have 3 file ipynb from Google Colab about my Computer Vision assignments
+Repository for Computer Vision assignments from Startup Campus. In this repository i have 2 file ipynb from Google Colab about my Computer Vision assignments
 
 # 01
 In the first file, I did digital image processing, Max pooling, Min pooling, Average pooling and CLAHE. I explain and compare the results of these processes.
